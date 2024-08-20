@@ -2,7 +2,9 @@ Script em Python que extrai comentários de avaliação de usuários de uma pág
 
 Modifique a linha que contém o ID do link para qualquer outro ID de link de página que deseja usar para a avaliação.
 
-# Faça as seguintes instalações no Terminal do programa para evitar possíveis erros:
+Faça as seguintes instalações no Terminal do programa para evitar possíveis erros:
+```
 pip install pandas
 pip install google-play-scraper
 pip install openpyxl
+```
